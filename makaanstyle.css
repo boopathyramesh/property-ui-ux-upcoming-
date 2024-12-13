@@ -1,0 +1,11 @@
+.nav-pills li .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #02b990; /* Change this to your desired shade of green */
+  } 
+
+  li .nav-link{
+    color: #02b990;
+    border: 1px solid #02b990;
+  }
+  li .nav-link:hover{
+    color: #02b990;
+  }
